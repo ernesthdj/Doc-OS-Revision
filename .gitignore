@@ -1,0 +1,8 @@
+# Obsidian config
+doc/.obsidian/
+
+# Claude config
+.claude/
+
+# MindMap Réseau (repo séparé)
+MindMap Cours Réseau/
